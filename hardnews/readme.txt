@@ -2,9 +2,9 @@
 
 Contributors: afthemes
 Requires at least: WordPress 4.9
-Requires PHP: 5.6
-Tested up to: 6.7
-Stable tag: 2.0.3
+Requires PHP: 5.0
+Tested up to: 6.9
+Stable tag: 2.1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: news, blog, entertainment, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-menu, featured-images, full-width-template, custom-header, translation-ready, theme-options, threaded-comments
@@ -19,7 +19,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 HardNews is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 
-HardNews is a child theme of "CoverNews". CoverNews Theme is licensed under the GPL v2. Copyright 2018 AF themes
+HardNews is a child theme of "CoverNews". CoverNews Theme is licensed under the GPL v2. Copyright 2026 AF themes
 HardNews is distributed under the terms of the GNU GPL v2 or later.
 
 == Description ==
