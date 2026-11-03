@@ -5,12 +5,12 @@ Author: AF themes
 Author URI: https://afthemes.com
 Requires at least: WordPress 4.0
 Requires PHP: 5.0
-Tested up to: 6.9
+Tested up to: 7.1
 Description:  HardNews is a child theme of CoverNews. The theme has different header design as well as some significant fonts and color configuration adjustments. In addition, the design also modified some of the default nature of the front page layout. You can implement layouts as a clean and minimal blogging site, a vintage and retro fashion blog, a photography blog, a wedding blog & magazine and more with the help of the available customizer options.. The theme is SEO friendly with optimized code and awesome support.
 See Demo: https://demo.afthemes.com/covernews/hardnews/
 Support: https://afthemes.com/supports/
 Template: covernews
-Version: 2.1.0
+Version: 2.1.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: hardnews
@@ -170,4 +170,21 @@ body #loader:after {
     font-size: 26px;
     line-height: 55px;
     }
+}
+
+.entry-content .wp-block-rss li a, 
+.entry-content .wp-block-categories a, 
+.entry-content .wp-block-archives a,
+.entry-content .wp-block-latest-comments li a, 
+.entry-content .wp-block-latest-posts li a, 
+.entry-content .wp-block-tag-cloud a,
+.entry-content .wp-block-page-list a,
+.entry-content .wp-block-navigation a,
+.entry-content .wp-block-query a,
+.entry-content .wp-block-post-title a,
+.entry-content .wp-block-post-excerpt__more-link,
+.entry-content .wp-block-post-comments-form a,
+.entry-content .wp-block-loginout a,
+.entry-content .wp-block-calendar tbody a {
+    color: inherit !important;
 }
